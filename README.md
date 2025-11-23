@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Robert Miller</h1>
 <h3>computer science student at UFPE who wants to learn and work with different technologies</h3>
 
-- 🔭 I’m currently working on [Ess-booking project](https://github.com/rmls2/ess-base-project) and [Toon Craft](https://github.com/rmls2/Criacom-2023.2)
+- 🔭 I’m currently working on [Java-Alura](https://github.com/rmls2/java-screenmatch-consumindo-webservice) and [Toon Craft](https://github.com/rmls2/Criacom-2023.2)
 
-- 🌱 I’m currently learning **Python and JavaScript frameworks**
+- 🌱 I’m currently learning **Java and JavaScript frameworks**
 
 - 👨‍💻 All of my projects are available here.
 <br><br>
